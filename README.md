@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Farooq
+- I am a part of FIP team , dealing with automation activities.
+- Skilled in Python , Cadence Skill language , Tcl , Calibredrv , Perl and Unix.
